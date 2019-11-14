@@ -8,3 +8,5 @@ Selecciona opción de la operación que desea realizar
 3.Multiplicar
 4.Dividir
 0.Salir del programa
+
+Gracias por utilizar nuestro programa.
